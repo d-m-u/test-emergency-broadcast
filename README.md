@@ -2,4 +2,4 @@
 
 this[goes here]
 
-[goes here]: some other file 
+[goes here]:"other.md"

@@ -1,5 +1,7 @@
 # test-emergency-broadcast
 
+##### it's just a stupid place to play with markdown for miq blogs
+
 this [goes here]
 foo [stuff here][1] [1a]
 

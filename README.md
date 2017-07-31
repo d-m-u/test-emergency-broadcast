@@ -9,5 +9,6 @@ foo [stuff here][1] [1a]
 [1]: other.md
 [1a]: www.google.com
 
+[here](https://www.youtube.com/embed/O05SBdpl7Gc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O05SBdpl7Gc" frameborder="0" allowfullscreen></iframe>  
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/O05SBdpl7Gc" frameborder="0" allowfullscreen></iframe>)

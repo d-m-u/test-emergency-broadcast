@@ -120,8 +120,13 @@ function iqr(k) {
 To do this, I made the following changes:
 
 - change `var svg = d3.select("body").selectAll("svg")` to `var svg = d3.select("div#example").selectAll("svg")`
+   
 - save `morley.csv` to the root directory of my Jekyll site, then change `d3.csv("morley.csv", function(error, csv)` to `d3.csv("/morley.csv", function(error, csv)` (copied this file into project to resolve cross-site scripting errors)
 - change `<script src="box.js"></script>` to `<script src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/box.js"></script>`
 - create a new element called `<div id="example"></div>`
 
 Check out [the code for this post on GitHub](https://raw.githubusercontent.com/nicksuch/nicksuch.github.io/master/_posts/2014-03-26-d3-sample.md) to see how I did it!
+
+
+
+

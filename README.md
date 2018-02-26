@@ -22,6 +22,9 @@ http://www.nicksuch.com/2014/03/26/d3-sample/
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.15.0/vis.min.js" type="text/javascript"></script><link rel="https://cdnjs.cloudflare.com/ajax/libs/vis/4.15.0/vis.min.css"></link>
 
+mkp-blue {
+	color: blue;
+}
 
 <details>
 <summary>How do I dropdown?</summary>

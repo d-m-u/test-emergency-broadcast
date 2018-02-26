@@ -38,3 +38,5 @@ This is how you dropdown.
     {% endfor %}
   </ul>
 </li>
+
+Hello! I'm a **<mkp-blue>blue</mkp-blue>** word in a regular markdown text!

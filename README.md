@@ -28,3 +28,13 @@ http://www.nicksuch.com/2014/03/26/d3-sample/
 <br>
 This is how you dropdown.
 <details>
+
+
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Posts <span class="caret"></span></a>
+  <ul class="dropdown-menu" role="menu">
+    {% for p in site.posts %}
+      {% include menu_item.html %}
+    {% endfor %}
+  </ul>
+</li>

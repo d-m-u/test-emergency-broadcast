@@ -41,6 +41,17 @@ You remember the line. The last one you read, the one that reached out from the 
 </br>
 </br>
 
+<hr></hr>
+
+<details>
+<summary>stuff</summary>
+<br>
+more stuff
+</details>
+
+</br>
+</br>
+
 <sup id="fn1">1. [NickL: "feel free to have Trogdor burnanate me to a crisp in front of my friends and family"]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></br> 
 <sup id="fn2">2. [http://benito-cereno.tumblr.com/post/171103878358/okay-so-latin-has-this-word-sic-or-if-we-want]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 

@@ -33,9 +33,9 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary>a weird name</summary>
+<summary>Ajahn Chah</summary>
 <br>
-stuff
+“If it doesn’t break today, it will break tomorrow,” writes the Thai monk Ajahn Chah. “If it doesn’t break tomorrow, it will break the day after tomorrow.”
 </details>
 
 </br>

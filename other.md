@@ -51,5 +51,6 @@ stuff
 [//]: # ("I'm not trying to play the comparison game but could you maybe shut the f*** up for a second?" -RW)
 [//]: # (Rocky Mountain Raptor Center baby snowy owl photo courtesy of PS)
 [//]: # (bingewatching all of Altered Carbon and walking around talking about things being in the real)
+[//]: # (the start to retirement as a request working just fine)
 [//]: # (http://karlwinegardner.blogspot.com/2011/02/how-to-create-footnotes-in-html.html)
 [//]: # (https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)

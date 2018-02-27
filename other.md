@@ -7,6 +7,6 @@ date:   2014-03-26 13:12:00
 <details>
 <summary>How do I dropdown?</summary>
 <br>
-<code> This is how you dropdown. </code>
+<code> This is how you dropdown. </code> </br>
 This is how you dropdown.
 <details>

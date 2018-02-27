@@ -10,6 +10,8 @@ title:  "fun with stupid html things"
 <summary><i>You</i> get a short mad lib, brother! And <i>you</i> get a short mad lib! And <i>you</i>... </summary>
 <br>
 Hello and welcome! This is the second Last Month in ManageIQ. I am of course the illustrious d-m-u ready to take you on a [adjective] tour of some of the [adjective] updates we had to the ManageIQ [noun].
+</br>
+</br>
 
 Last week we had an incredible 109 PRs merged into master, with an astonishing 329 commits! Contributions from outside the [adjective] ManageIQ team are of course always welcomed.
 </details>

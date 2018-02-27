@@ -17,14 +17,16 @@ Last week we had an incredible 109 PRs merged into master, with an astonishing 3
 
 <details>
 <summary>maps</summary>
-You are the you of the present, reading in frustration, wanting nothing more than to tear your eyes off the page and get back to the important business of living. <i>She sure is taking her time moving off of this introduction thing or whatever it is</i>, you think. Maybe it is a trap introduction, maybe the introduction is a misrepresentation. Maybe it exists solely to protect copyright. You wonder if the text is to scale, you peer at it from a few different angles, suspicious. Is it a one-to-one transformation? But the text does not answer, no matter how desperately you plead for answers. The phonemes and vowels stay flat and silent and offer your suspicions no tread. You do not have even the safety of a world that lacks e's in this variant. The visual offers no clues, and you wonder how you would know if you were in fact inhabiting the real. 
+You are the you of the present, reading in frustration, wanting nothing more than to tear your eyes off the page and get back to the important business of living. <i>She sure is taking her time moving off of this introduction thing or whatever it is</i>, you think. Maybe it is a trap introduction, maybe the introduction is a misrepresentation. Maybe it exists solely to protect copyright. You wonder if the text is to scale, you peer at it from a few different angles, suspicious. Is it a one-to-one transformation? But the text does not answer, no matter how desperately you plead for answers. The phonemes and vowels stay flat and silent and offer your suspicions no tread. You do not have even the safety of a world that lacks e's in this variant. The visual offers no clues, and you wonder how you would know if you were in fact inhabiting the real.
+</br>
+You remember the line. The last one you read, the one that reached out from the page and punched you in the face. Clearly writing that takes no hostages is a mark that your existence in that moment was in the real.
 </details>
 </br>
 
 <details>
-<summary>hostages</summary>
+<summary>a weird name</summary>
 <br>
-You remember the line. The last one you read, the one that reached out from the page and punched you in the face. Clearly writing that takes no hostages is a mark that your existence in that moment was in the real.
+stuff
 </details>
 
 

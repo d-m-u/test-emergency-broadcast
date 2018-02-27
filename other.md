@@ -8,10 +8,10 @@ _Oh no_, you think. Surely they wouldn't have been so foolish as to let d-m-u wr
   
 <details>
 <summary>maps</summary>
-<br>
 You are the you of the present, reading in frustration, wanting nothing more than to tear your eyes off the page and get back to the important business of living. She sure is taking her time moving off of this introduction thing or whatever it is, you think. Maybe it is a trap introduction, maybe the introduction is a misrepresentation. Maybe it exists solely to protect copyrights. You wonder if the text is to scale, you peer at it from a few different angles, suspicious. Is it a one-to-one story? But the text does not answer, no matter how desperately you plead for answers. The phonemes and vowels stay flat and silent, offering your suspicions no tread. You do not have even the safety of a world that lacks e's in this variant. The visual offers no clues, and you wonder how you would know if you were in fact inhabiting the real. 
 </details>
-  
+
+</br>
 <details>
 <summary>How do I dropdown?</summary>
 <br>

@@ -3,7 +3,7 @@ layout: post
 title:  "fun with stupid html things"
 ---
 
-<i>Oh no</i>, you think. Surely they wouldn't have been so foolish as to let d-m-u write <i>yet another one</i>. They are tempting the very threads of fate herself, letting d-m-u get away with this twice in a row. Who knows what horrors will befall you this time. You shudder. If you are lucky, it will only be Trogdor burnanating<sup><a href="#fn1" id="ref1">1</a></sup>  (sic)<sup><a href="#fn2" id="ref1">2</a></sup> you to a crisp, it will be only physical monsters, not the unearthly disturbances of time and dark and cold that have been evoked with such disasterous results previously. You had held out a smattering of hope that d-m-u's prose might be gentled the way that centuries of water smooth a pebble, but such hope is whisked away with the next thought: you never know, with these texts, if you will be fortunate enough to exist outside the inky blackness, cursed to only watch as the story dismally unfolds before your eyes, or if you will be a deeply unwilling participant, your agency slave to the whims of an unreliable, mercurial narrator.
+<i>Oh no</i>, you think. Surely they wouldn't have been so foolish as to let <code>d-m-u</code> write <i>yet another one</i>. They are tempting the very threads of fate herself, letting <code>d-m-u</code> get away with this twice in a row. Who knows what horrors will befall you this time. You shudder. If you are lucky, it will only be Trogdor burnanating<sup><a href="#fn1" id="ref1">1</a></sup>  (sic)<sup><a href="#fn2" id="ref1">2</a></sup> you to a crisp, it will be only physical monsters, not the unearthly disturbances of time and dark and cold that have been evoked with such disasterous results previously. You had held out a smattering of hope that d-m-u's prose might be gentled the way that centuries of water smooth a pebble, but such hope is whisked away with the next thought: you never know, with these texts, if you will be fortunate enough to exist outside the inky blackness, cursed to only watch as the story dismally unfolds before your eyes, or if you will be a deeply unwilling participant, your agency slave to the whims of an unreliable, mercurial narrator.
 </br>
 
 <hr></hr>
@@ -11,7 +11,7 @@ title:  "fun with stupid html things"
 <details>
 <summary><i>You</i> get a short mad lib, brother! And <i>you</i> get a short mad lib! And <i>you</i>... </summary>
 <br>
-Hello and welcome! This is the second Last Month in ManageIQ. I am of course the illustrious d-m-u :sparkles: ready to take you on a [adjective] tour of some of the [adjective] updates we had to the ManageIQ [noun].
+Hello and welcome! This is the second Last Month in ManageIQ. I am of course the illustrious <code>d-m-u</code> :sparkles: :pineapple: ready to take you on a [adjective] tour of some of the [adjective] updates we had to the ManageIQ [noun].
 </br>
 </br>
 

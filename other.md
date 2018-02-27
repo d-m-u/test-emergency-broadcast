@@ -3,8 +3,6 @@ layout: post
 title:  "fun with stupid html things"
 ---
 
-Some text with a footnote.<sup><a href="#fn1" id="ref1">1</a></sup>
-
 <i>Oh no</i>, you think. Surely they wouldn't have been so foolish as to let d-m-u write <i>yet another one</i>. They are tempting the very threads of fate herself, letting d-m-u get away with this twice in a row. Who knows what horrors will befall you this time. You shudder. If you are lucky, it will only be Trogdor burnanating<sup><a href="#fn1" id="ref1">1</a></sup>  (sic)<sup><a href="#fn2" id="ref1">2</a></sup> you to a crisp, only physical monsters, not the unearthly disturbances of time and dark and cold that have been evoked with such disasterous results before. You had held out a smattering of hope that d-m-u's prose might be gentled the way that centuries of water smooth a pebble, but such hope is whisked away with the next thought: you never know, with these texts, if you will be fortunate enough to exist outside the inky blackness, cursed to only watch as the story dismally unfolds before your eyes, or if you will be a deeply unwilling participant, your agency slave to the whims of an unreliable, mercurial narrator.
 </br>
 
@@ -36,10 +34,11 @@ You remember the line. The last one you read, the one that reached out from the 
 stuff
 </details>
 
+</br>
+</br>
 
 <sup id="fn1">1. [NickL: "feel free to have Trogdor burnanate me to a crisp in front of my friends and family"]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></br> 
 <sup id="fn2">2. [http://benito-cereno.tumblr.com/post/171103878358/okay-so-latin-has-this-word-sic-or-if-we-want]<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
-
 
 </br>
 </br>

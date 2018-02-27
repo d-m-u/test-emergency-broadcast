@@ -34,8 +34,8 @@ stuff
 
 </br>
 </br>
-1) NickL: "feel free to have Trogdor burnanate me to a crisp in front of my friends and family"
-2) http://benito-cereno.tumblr.com/post/171103878358/okay-so-latin-has-this-word-sic-or-if-we-want
+1) NickL: "feel free to have Trogdor burnanate me to a crisp in front of my friends and family"  
+2) http://benito-cereno.tumblr.com/post/171103878358/okay-so-latin-has-this-word-sic-or-if-we-want  
 
 [//]: # (Things that helped get this issue out, in no particular order:)
 [//]: # ("I'm not trying to play the comparison game but could you maybe shut the f*** up for a second?" -RW)

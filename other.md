@@ -17,3 +17,9 @@ You are the you of the present, reading in frustration, wanting nothing more tha
 <code> This is how you dropdown. </code> </br>
 This is how you dropdown.
 </details>
+
+
+This *is*{:.underline} some `code`{:#id}{:.class}.
+A [link](google.com){:rel='something'} and some **tools**{:.tools}.
+
+this *is italic*{::}*marked*{:.special} text

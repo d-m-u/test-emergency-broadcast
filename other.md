@@ -37,8 +37,6 @@ You remember the line. The last one you read, the one that reached out from the 
 <br>
 “If it doesn’t break today, it will break tomorrow,” writes the Thai monk Ajahn Chah. “If it doesn’t break tomorrow, it will break the day after tomorrow.”
 </details>
-
-</br>
 </br>
 
 <hr></hr>
@@ -48,8 +46,6 @@ You remember the line. The last one you read, the one that reached out from the 
 <br>
 more stuff
 </details>
-
-</br>
 </br>
 
 <sup id="fn1">1. [NickL: "feel free to have Trogdor burnanate me to a crisp in front of my friends and family"]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></br> 

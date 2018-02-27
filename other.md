@@ -7,6 +7,6 @@ date:   2014-03-26 13:12:00
 <details>
 <summary>How do I dropdown?</summary>
 <br>
-<i> This is how you dropdown. </i>
+<s> This is how you dropdown. </s>
 This is how you dropdown.
 <details>

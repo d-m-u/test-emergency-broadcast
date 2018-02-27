@@ -37,7 +37,7 @@ stuff
 </details>
 
 
-<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text."> </a></sup>
 
 
 </br>

@@ -38,4 +38,4 @@ stuff
 [//]: # ("I'm not trying to play the comparison game but could you maybe shut the f*** up for a second?" -RW)
 [//]: # (Rocky Mountain Raptor Center baby snowy owl photo courtesy of PS)
 [//]: # (bingewatching all of Altered Carbon and walking around talking about things being in the real)
-
+[//]: # (NickL's "feel free to have Trogdor burnanate me to a crisp in front of my friends and family")

@@ -3,6 +3,8 @@ layout: post
 title:  "fun with stupid html things"
 ---
 
+Some text with a footnote.<sup><a href="#fn1" id="ref1">1</a></sup>
+
 <i>Oh no</i>, you think. Surely they wouldn't have been so foolish as to let d-m-u write <i>yet another one</i>. They are tempting the very threads of fate herself, letting d-m-u get away with this twice in a row. Who knows what horrors will befall you this time. You shudder. If you are lucky, it will only be Trogdor burnanating<sup>1</sup> (sic)<sup>2</sup> you to a crisp, only physical monsters, not the unearthly disturbances of time and dark and cold that have been evoked with such disasterous results before. You had held out a smattering of hope that d-m-u's prose might be gentled the way that centuries of water smooth a pebble, but such hope is whisked away with the next thought: you never know, with these texts, if you will be fortunate enough to exist outside the inky blackness, cursed to only watch as the story dismally unfolds before your eyes, or if you will be a deeply unwilling participant, your agency slave to the whims of an unreliable, mercurial narrator.
 </br>
 
@@ -12,6 +14,8 @@ title:  "fun with stupid html things"
 Hello and welcome! This is the second Last Month in ManageIQ. I am of course the illustrious d-m-u ready to take you on a [adjective] tour of some of the [adjective] updates we had to the ManageIQ [noun].
 </br>
 </br>
+
+<hr></hr>
 
 Last week we had an incredible 109 PRs merged into master, with an astonishing 329 commits! Contributions from outside the [adjective] ManageIQ team are of course always welcomed.
 </details>
@@ -31,6 +35,10 @@ You remember the line. The last one you read, the one that reached out from the 
 <br>
 stuff
 </details>
+
+
+<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
 
 </br>
 </br>

@@ -39,3 +39,4 @@ stuff
 [//]: # (Rocky Mountain Raptor Center baby snowy owl photo courtesy of PS)
 [//]: # (bingewatching all of Altered Carbon and walking around talking about things being in the real)
 [//]: # (NickL's "feel free to have Trogdor burnanate me to a crisp in front of my friends and family")
+[//]: # (http://benito-cereno.tumblr.com/post/171103878358/okay-so-latin-has-this-word-sic-or-if-we-want)

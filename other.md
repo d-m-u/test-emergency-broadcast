@@ -43,9 +43,9 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary> ![alt text](test-emergency-broadcast/Screen Shot 2018-02-28 at 9.32.16 AM.png) </summary>
+<summary> ![img](/site/assets/images/blog/rebus.png) </summary>
 <br>
-![alt text](test-emergency-broadcast/Screen Shot 2018-02-28 at 9.32.16 AM.png)
+![other img](/site/assets/images/blog/rebus2.png)
 </details>
 </br>
 

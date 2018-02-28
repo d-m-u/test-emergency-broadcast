@@ -43,7 +43,7 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary> ![alt text](https://github.com/d-m-u/test-emergency-broadcast/blob/master/Screen%20Shot%202018-02-28%20at%209.32.16%20AM.png "Logo Title Text 1") </summary>
+<summary> ![alt text]( test-emergency-broadcast/Screen Shot 2018-02-28 at 9.32.16 AM.png  "Logo Title Text 1") </summary>
 <br>
 more stuff
 </details>

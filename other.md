@@ -43,7 +43,7 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary> </summary>
+<summary> ![alt text](https://github.com/d-m-u/test-emergency-broadcast/blob/master/Screen%20Shot%202018-02-28%20at%209.32.16%20AM.png "Logo Title Text 1") </summary>
 <br>
 more stuff
 </details>
@@ -64,7 +64,7 @@ more stuff
 [//]: # (Things that helped get this issue out, in no particular order:)
 [//]: # ("I'm not trying to play the comparison game but could you maybe shut the f*** up for a second?" -RW)
 [//]: # (Rocky Mountain Raptor Center baby snowy owl photo courtesy of PS)
-[//]: # (bingewatching all of Altered Carbon and walking around talking about things being in the real)
+[//]: # (bingewatching all of Altered Carbon and no one getting my references about things being in the real)
 [//]: # (the start to retirement as a request working just fine)
 [//]: # (big city time and Mark O'Connor)
 [//]: # (http://karlwinegardner.blogspot.com/2011/02/how-to-create-footnotes-in-html.html)

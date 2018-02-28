@@ -43,7 +43,7 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary> ![alt text]( test-emergency-broadcast/Screen Shot 2018-02-28 at 9.32.16 AM.png  "Logo Title Text 1") </summary>
+<summary> ![alt text](test-emergency-broadcast/Screen Shot 2018-02-28 at 9.32.16 AM.png) </summary>
 <br>
 more stuff
 </details>

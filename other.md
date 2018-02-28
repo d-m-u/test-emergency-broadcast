@@ -43,7 +43,7 @@ You remember the line. The last one you read, the one that reached out from the 
 <hr></hr>
 
 <details>
-<summary> re + :brush: - rh </summary>
+<summary> </summary>
 <br>
 more stuff
 </details>

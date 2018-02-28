@@ -66,3 +66,4 @@ more stuff
 [//]: # (http://karlwinegardner.blogspot.com/2011/02/how-to-create-footnotes-in-html.html)
 [//]: # (https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)
 [//]: # (bat photos)
+[//]: # ("at some point this guy is going to call Drew "brother")

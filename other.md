@@ -57,6 +57,10 @@ more stuff
 </br>
 </br>
 
+
+
+[//]: # (https://github.com/ManageIQ/manageiq/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+base%3Amaster+merged%3A%222018-02-01+..+2018-02-28%22+sort%3Acreated-desc+)
+
 [//]: # (Things that helped get this issue out, in no particular order:)
 [//]: # ("I'm not trying to play the comparison game but could you maybe shut the f*** up for a second?" -RW)
 [//]: # (Rocky Mountain Raptor Center baby snowy owl photo courtesy of PS)
